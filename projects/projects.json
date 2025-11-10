@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Random Color Genrator",
+    "desc": "Full-Stack Random Color genrator with hex code",
+    "image": "clrgenrator",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/nasirali84/Random-Color-Genrator"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Full-Stack A fully functional Calculator.",
+    "image": "calculator",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/nasirali84/Calculator"
+    }
+  },
+  {
+    "name": "Digital Clock",
+    "desc": "Digital clock.",
+    "image": "digclock",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/nasirali84/digital-clock"
+    }
+  },
+  {
+    "name": "Analog Clock",
+    "desc": "Analog Clock fully functional Clock.",
+    "image": "clock",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/nasirali84/analog-clock"
+    }
+  },
+  {
+    "name": "Stylish Buttons",
+    "desc": "Stylish buttons using CSS HTML.",
+    "image": "stybuttons",
+    "category": "lamp",
+    "links": {
+      "view": "",
+      "code": "https://github.com/nasirali84/style-buttons"
+    }
+  },
+  {
+    "name": "Unit Converter",
+    "desc": "Unit converter using HTML CSS JavaScript.",
+    "image": "unitconverter",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": "https://github.com/nasirali84/unit-converter"
+    }
+  }
+]
